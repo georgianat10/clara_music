@@ -5,7 +5,7 @@
 This application has three main parts:
  1. Sentiment analysis - implemented with Recursive Neural Network (RNN) using Tensorflow;
  2. Speech recognition - implemented using google libraries;
- 3. Database for song and the feeling associated with them.
+ 3. Database for song and the feeling associated with it.
 
 
 ## Available Scripts
